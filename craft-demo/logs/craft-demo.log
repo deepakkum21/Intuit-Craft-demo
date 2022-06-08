@@ -1,0 +1,420 @@
+2022-05-24 05:18:46,482 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 312 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:18:46,491 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:18:48,139 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:18:48,149 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:18:48,160 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:18:48,160 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:18:48,261 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:18:48,262 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1702 ms
+2022-05-24 05:18:48,546 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3af58f76, org.springframework.security.web.context.SecurityContextPersistenceFilter@65a9ea3c, org.springframework.security.web.header.HeaderWriterFilter@1e1eeedd, org.springframework.security.web.csrf.CsrfFilter@7ddd84b5, org.springframework.security.web.authentication.logout.LogoutFilter@315105f, com.intuit.craftdemo.security.CustomFilter@2ead6ba4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1984212d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@46911148, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2db33feb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@31a2a9fa, org.springframework.security.web.session.SessionManagementFilter@1835dc92, org.springframework.security.web.access.ExceptionTranslationFilter@1943c1f2, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2c63762b]
+2022-05-24 05:18:48,798 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:18:48,819 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:18:48,828 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.981 seconds (JVM running for 3.447)
+2022-05-24 05:19:06,557 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:19:06,558 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:19:06,559 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Completed initialization in 1 ms
+2022-05-24 05:20:10,386 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 19496 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:20:10,390 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:20:11,999 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:20:12,008 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:20:12,009 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:20:12,009 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:20:12,107 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:20:12,107 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1644 ms
+2022-05-24 05:20:12,353 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3af58f76, org.springframework.security.web.context.SecurityContextPersistenceFilter@65a9ea3c, org.springframework.security.web.header.HeaderWriterFilter@1e1eeedd, org.springframework.security.web.csrf.CsrfFilter@7ddd84b5, org.springframework.security.web.authentication.logout.LogoutFilter@315105f, com.intuit.craftdemo.security.CustomFilter@2ead6ba4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1984212d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@46911148, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2db33feb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@31a2a9fa, org.springframework.security.web.session.SessionManagementFilter@1835dc92, org.springframework.security.web.access.ExceptionTranslationFilter@1943c1f2, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2c63762b]
+2022-05-24 05:20:12,614 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:20:12,637 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:20:12,648 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.844 seconds (JVM running for 3.273)
+2022-05-24 05:20:30,051 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:20:30,053 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:20:30,054 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 1 ms
+2022-05-24 05:37:46,527 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 17212 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:37:46,532 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:37:48,129 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:37:48,138 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:37:48,139 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:37:48,139 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:37:48,242 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:37:48,242 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1645 ms
+2022-05-24 05:37:48,508 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@796f632b, org.springframework.security.web.context.SecurityContextPersistenceFilter@29c17c3d, org.springframework.security.web.header.HeaderWriterFilter@14c93774, org.springframework.security.web.csrf.CsrfFilter@21263314, org.springframework.security.web.authentication.logout.LogoutFilter@64e1377c, com.intuit.craftdemo.security.CustomFilter@5d94a2dc, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6d6d480c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1665fa54, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@558b4942, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@cedee22, org.springframework.security.web.session.SessionManagementFilter@6bcb12e6, org.springframework.security.web.access.ExceptionTranslationFilter@40247d48, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@550e9be6]
+2022-05-24 05:37:48,747 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:37:48,766 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:37:48,776 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.9 seconds (JVM running for 3.391)
+2022-05-24 05:38:16,424 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:38:16,426 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:38:16,427 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Completed initialization in 1 ms
+2022-05-24 05:40:54,469 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 21460 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:40:54,475 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:40:56,609 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:40:56,619 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:40:56,619 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:40:56,620 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:40:56,733 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:40:56,734 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2083 ms
+2022-05-24 05:40:57,055 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7dcb42a9, org.springframework.security.web.context.SecurityContextPersistenceFilter@54e12f4c, org.springframework.security.web.header.HeaderWriterFilter@68f6e55d, org.springframework.security.web.csrf.CsrfFilter@7327a447, org.springframework.security.web.authentication.logout.LogoutFilter@45658133, com.intuit.craftdemo.security.CustomFilter@6af90849, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@46dcbeab, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d84049a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6ca30b8a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1d06f16f, org.springframework.security.web.session.SessionManagementFilter@30c3ae63, org.springframework.security.web.access.ExceptionTranslationFilter@20eaeaf8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1a256d80]
+2022-05-24 05:40:57,307 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:40:57,331 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:40:57,340 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 3.587 seconds (JVM running for 4.119)
+2022-05-24 05:41:04,648 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:41:04,649 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:41:04,651 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 1 ms
+2022-05-24 05:41:49,483 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 9128 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:41:49,488 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:41:51,249 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:41:51,259 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:41:51,259 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:41:51,260 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:41:51,365 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:41:51,365 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1791 ms
+2022-05-24 05:41:51,628 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b0bd001, org.springframework.security.web.context.SecurityContextPersistenceFilter@383caf89, org.springframework.security.web.header.HeaderWriterFilter@2db33feb, org.springframework.security.web.csrf.CsrfFilter@7ec95456, org.springframework.security.web.authentication.logout.LogoutFilter@6d67f5eb, com.intuit.craftdemo.security.CustomFilter@f9cab00, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@80b122b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@71ed560f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5a545b0f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10272bbb, org.springframework.security.web.session.SessionManagementFilter@5c9934da, org.springframework.security.web.access.ExceptionTranslationFilter@43c57161, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2404b5a]
+2022-05-24 05:41:51,859 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:41:51,879 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:41:51,890 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 3.008 seconds (JVM running for 3.46)
+2022-05-24 05:41:55,655 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:41:55,657 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:41:55,658 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Completed initialization in 1 ms
+2022-05-24 05:43:38,922 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 11036 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:43:38,926 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:43:40,547 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:43:40,558 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:43:40,558 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:43:40,558 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:43:40,659 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:43:40,659 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1649 ms
+2022-05-24 05:43:40,904 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@999b951, org.springframework.security.web.context.SecurityContextPersistenceFilter@4a92c6a9, org.springframework.security.web.header.HeaderWriterFilter@7e351d7, org.springframework.security.web.csrf.CsrfFilter@d70f722, org.springframework.security.web.authentication.logout.LogoutFilter@29c17c3d, com.intuit.craftdemo.security.CustomFilter@65cf4d6d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@68dd39d2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4cb702ce, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@58253c57, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1b410308, org.springframework.security.web.session.SessionManagementFilter@21263314, org.springframework.security.web.access.ExceptionTranslationFilter@46911148, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1984212d]
+2022-05-24 05:43:41,131 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:43:41,154 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:43:41,164 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.816 seconds (JVM running for 3.253)
+2022-05-24 05:43:49,004 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:43:49,006 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:43:49,007 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 1 ms
+2022-05-24 05:56:31,995 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 9120 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:56:32,022 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:56:33,550 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:56:33,559 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:56:33,560 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:56:33,560 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:56:33,653 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:56:33,653 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1569 ms
+2022-05-24 05:56:34,003 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b0bd001, org.springframework.security.web.context.SecurityContextPersistenceFilter@383caf89, org.springframework.security.web.header.HeaderWriterFilter@2db33feb, org.springframework.security.web.csrf.CsrfFilter@7ec95456, org.springframework.security.web.authentication.logout.LogoutFilter@6d67f5eb, com.intuit.craftdemo.security.CustomFilter@f9cab00, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@80b122b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@71ed560f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5a545b0f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10272bbb, org.springframework.security.web.session.SessionManagementFilter@5c9934da, org.springframework.security.web.access.ExceptionTranslationFilter@43c57161, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2404b5a]
+2022-05-24 05:56:34,258 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:56:34,282 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:56:34,295 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 3.003 seconds (JVM running for 3.476)
+2022-05-24 05:57:18,779 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:57:18,780 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-3] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:57:18,781 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-3] Completed initialization in 1 ms
+2022-05-24 05:58:40,472 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 17724 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:58:40,474 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:58:41,901 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:58:41,910 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:58:41,910 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:58:41,910 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:58:42,023 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:58:42,024 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1499 ms
+2022-05-24 05:58:42,262 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7dcb42a9, org.springframework.security.web.context.SecurityContextPersistenceFilter@54e12f4c, org.springframework.security.web.header.HeaderWriterFilter@68f6e55d, org.springframework.security.web.csrf.CsrfFilter@7327a447, org.springframework.security.web.authentication.logout.LogoutFilter@45658133, com.intuit.craftdemo.security.CustomFilter@6af90849, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@46dcbeab, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d84049a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6ca30b8a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1d06f16f, org.springframework.security.web.session.SessionManagementFilter@30c3ae63, org.springframework.security.web.access.ExceptionTranslationFilter@20eaeaf8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1a256d80]
+2022-05-24 05:58:42,461 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:58:42,479 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:58:42,490 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.552 seconds (JVM running for 2.949)
+2022-05-24 05:58:50,026 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 05:58:50,026 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 05:58:50,027 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 0 ms
+2022-05-24 05:59:04,856 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 10464 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 05:59:04,859 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 05:59:06,245 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 05:59:06,253 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:59:06,254 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 05:59:06,254 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 05:59:06,340 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 05:59:06,340 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1423 ms
+2022-05-24 05:59:06,573 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7885776b, org.springframework.security.web.context.SecurityContextPersistenceFilter@76544c0a, org.springframework.security.web.header.HeaderWriterFilter@7327a447, org.springframework.security.web.csrf.CsrfFilter@d3f4505, org.springframework.security.web.authentication.logout.LogoutFilter@64c781a9, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@50eb4a2c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@650c405c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1835dc92, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@497d4c96, org.springframework.security.web.session.SessionManagementFilter@748a654a, org.springframework.security.web.access.ExceptionTranslationFilter@25f15f50, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2ceee4b6]
+2022-05-24 05:59:06,792 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 05:59:06,809 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 05:59:06,816 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.473 seconds (JVM running for 2.907)
+2022-05-24 06:00:07,930 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 18320 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:00:07,933 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:00:09,301 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:00:09,310 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:00:09,310 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:00:09,310 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:00:09,403 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:00:09,404 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1391 ms
+2022-05-24 06:00:09,653 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2404b5a, org.springframework.security.web.context.SecurityContextPersistenceFilter@3aaa3c39, org.springframework.security.web.header.HeaderWriterFilter@d70f722, org.springframework.security.web.csrf.CsrfFilter@6807a356, org.springframework.security.web.authentication.logout.LogoutFilter@124dac75, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3a3ed300, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@70f68288, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d902300, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3af58f76, org.springframework.security.web.session.SessionManagementFilter@6fff46bf, org.springframework.security.web.access.ExceptionTranslationFilter@1fbf088b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4cad79bc]
+2022-05-24 06:00:09,855 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:00:09,874 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 06:00:09,883 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.475 seconds (JVM running for 2.922)
+2022-05-24 06:00:19,489 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 06:00:19,490 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 06:00:19,491 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 0 ms
+2022-05-24 06:00:19,840 WARN org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [318] milliseconds.
+2022-05-24 06:00:32,265 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-4] Generating tracer
+2022-05-24 06:00:32,266 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-4] TRACER ID: 210763d3b35a4a70b97ea97fb00ffab8  | Request URL: /craft/v1/success
+2022-05-24 06:00:32,280 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-4] handleSuccess controller
+2022-05-24 06:00:32,280 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-4]  user name admin
+2022-05-24 06:00:58,000 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-5] Generating tracer
+2022-05-24 06:00:58,000 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-5] TRACER ID: 73b0dc13304449e1bb59e816e47c5909  | Request URL: /craft/v1/fail
+2022-05-24 06:00:58,008 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-5] Generating tracer
+2022-05-24 06:00:58,008 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-5] TRACER ID: 453b3e0ecfd041c8ab32520a1fcca462  | Request URL: /error
+2022-05-24 06:01:07,502 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 2900 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:01:07,505 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:01:08,809 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:01:08,818 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:01:08,818 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:01:08,819 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:01:08,911 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:01:08,911 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1348 ms
+2022-05-24 06:01:09,142 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6215366a, org.springframework.security.web.context.SecurityContextPersistenceFilter@43c57161, org.springframework.security.web.header.HeaderWriterFilter@76544c0a, org.springframework.security.web.csrf.CsrfFilter@4d9754a8, org.springframework.security.web.authentication.logout.LogoutFilter@62a68bcb, com.intuit.craftdemo.security.CustomFilter@46dcbeab, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2ead6ba4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2db33feb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4d84049a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@36e43829, org.springframework.security.web.session.SessionManagementFilter@2db1b657, org.springframework.security.web.access.ExceptionTranslationFilter@748a654a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@64942607]
+2022-05-24 06:01:09,382 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:01:09,403 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 06:01:09,413 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.541 seconds (JVM running for 3.02)
+2022-05-24 06:01:13,154 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 06:01:13,156 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 06:01:13,157 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 1 ms
+2022-05-24 06:01:13,495 WARN org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [317] milliseconds.
+2022-05-24 06:01:13,509 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-2] Generating tracer
+2022-05-24 06:01:13,509 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-2] TRACER ID: e7febb5d5f134aa58c07cec17defc4b4  | Request URL: /craft/v1/fail
+2022-05-24 06:01:13,522 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-2] Generating tracer
+2022-05-24 06:01:13,522 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-2] TRACER ID: 03f446a6f7b346cab7024149ecbfd1f5  | Request URL: /error
+2022-05-24 06:02:03,775 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 9472 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:02:03,785 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:02:05,183 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:02:05,192 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:02:05,193 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:02:05,193 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:02:05,287 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:02:05,287 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1426 ms
+2022-05-24 06:02:05,509 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4fa4f485, org.springframework.security.web.context.SecurityContextPersistenceFilter@39ee94de, org.springframework.security.web.header.HeaderWriterFilter@3aaa3c39, org.springframework.security.web.csrf.CsrfFilter@58fbd02e, org.springframework.security.web.authentication.logout.LogoutFilter@6413d7e7, com.intuit.craftdemo.security.CustomFilter@68dd39d2, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5ec1963c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4c6b4ed7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4cb702ce, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4a44cfc0, org.springframework.security.web.session.SessionManagementFilter@60990e5c, org.springframework.security.web.access.ExceptionTranslationFilter@6fff46bf, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7885776b]
+2022-05-24 06:02:05,707 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:02:05,729 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 06:02:05,739 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.48 seconds (JVM running for 2.895)
+2022-05-24 06:02:10,446 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 06:02:10,451 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-24 06:02:10,452 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Completed initialization in 1 ms
+2022-05-24 06:02:17,799 WARN org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-3] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [323] milliseconds.
+2022-05-24 06:02:17,811 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-3] Generating tracer
+2022-05-24 06:02:17,812 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-3] TRACER ID: cf6979065ea4465a8be10193052f2e6c  | Request URL: /craft/v1/success
+2022-05-24 06:02:17,825 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-3] handleSuccess controller
+2022-05-24 06:02:17,825 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-3]  user name admin
+2022-05-24 06:02:22,902 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-4] Generating tracer
+2022-05-24 06:02:22,903 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-4] TRACER ID: ab633c9e6e314d78a9d66b14a0494674  | Request URL: /craft/v1/success
+2022-05-24 06:02:22,903 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-4] handleSuccess controller
+2022-05-24 06:02:22,903 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-4]  user name admin
+2022-05-24 06:03:44,374 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 17368 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:03:44,377 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:03:45,727 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:03:45,735 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:03:45,736 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:03:45,736 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:03:45,827 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:03:45,828 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1397 ms
+2022-05-24 06:03:46,062 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7e4579c7, org.springframework.security.web.context.SecurityContextPersistenceFilter@111d5c97, org.springframework.security.web.header.HeaderWriterFilter@3ff54f3d, org.springframework.security.web.csrf.CsrfFilter@4c6b4ed7, org.springframework.security.web.authentication.logout.LogoutFilter@5416f8db, com.intuit.craftdemo.security.CustomFilter@796f632b, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@771a7d53, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@250a9031, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7112ce6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5d94a2dc, org.springframework.security.web.session.SessionManagementFilter@17b37e9a, org.springframework.security.web.access.ExceptionTranslationFilter@7b61bf11, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7c5d1d25]
+2022-05-24 06:03:46,281 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:03:46,299 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 06:03:46,307 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.448 seconds (JVM running for 2.845)
+2022-05-24 06:03:50,213 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 06:03:50,214 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-24 06:03:50,215 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-2] Completed initialization in 1 ms
+2022-05-24 06:03:50,558 WARN org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-2] Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [315] milliseconds.
+2022-05-24 06:04:01,558 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-4] Generating tracer
+2022-05-24 06:04:01,558 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-4] TRACER ID: 5fb4e020692040ceb2e56fd400166cd1  | Request URL: /craft/v1/success
+2022-05-24 06:04:01,572 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-4] handleSuccess controller
+2022-05-24 06:04:01,573 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-4]  user name admin
+2022-05-24 06:04:11,024 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-5] Generating tracer
+2022-05-24 06:04:11,025 INFO com.intuit.craftdemo.config.RequestInterceptor [http-nio-9200-exec-5] TRACER ID: f3a315801a974af7809327234bd2a566  | Request URL: /craft/v1/success
+2022-05-24 06:04:11,026 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-5] handleSuccess controller
+2022-05-24 06:04:11,027 INFO com.intuit.craftdemo.controller.CraftDemoController [http-nio-9200-exec-5]  user name admin
+2022-05-24 06:11:28,796 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 17084 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:11:28,800 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:11:30,471 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:11:30,480 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:11:30,481 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:11:30,481 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:11:30,571 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:11:30,571 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1700 ms
+2022-05-24 06:11:30,701 WARN org.springframework.context.support.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'craftDemoSecurity': Unsatisfied dependency expressed through field 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-24 06:11:30,705 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2022-05-24 06:11:30,722 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-24 06:11:30,755 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-24 06:14:41,290 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 8484 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:14:41,296 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:14:42,824 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:14:42,832 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:14:42,833 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:14:42,833 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:14:42,922 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:14:42,922 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1555 ms
+2022-05-24 06:14:43,046 WARN org.springframework.context.support.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'craftDemoSecurity': Unsatisfied dependency expressed through field 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-24 06:14:43,049 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2022-05-24 06:14:43,065 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-24 06:14:43,086 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-24 06:15:19,727 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplicationTests using Java 11.0.10 on MSI with PID 17432 (started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:15:19,729 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:15:21,183 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-05-24 06:15:21,338 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-05-24 06:15:21,560 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@58b311ba, org.springframework.security.web.context.SecurityContextPersistenceFilter@6f85ee02, org.springframework.security.web.header.HeaderWriterFilter@4b03cbad, org.springframework.security.web.csrf.CsrfFilter@6a2d867d, org.springframework.security.web.authentication.logout.LogoutFilter@501957bf, com.intuit.craftdemo.security.CustomFilter@482c351d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6af65f29, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@47044f7d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@361cd35c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@75eaba95, org.springframework.security.web.session.SessionManagementFilter@580902cd, org.springframework.security.web.access.ExceptionTranslationFilter@6af609ea, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@689faf79]
+2022-05-24 06:15:22,333 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplicationTests in 2.993 seconds (JVM running for 3.896)
+2022-05-24 06:15:22,785 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-05-24 06:15:22,789 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-05-24 06:15:31,949 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 4128 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:15:31,954 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:15:33,532 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:15:33,541 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:15:33,541 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:15:33,541 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:15:33,641 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:15:33,641 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1566 ms
+2022-05-24 06:15:33,800 WARN org.springframework.context.support.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'craftDemoSecurity': Unsatisfied dependency expressed through field 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-24 06:15:33,803 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2022-05-24 06:15:33,819 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-24 06:15:33,840 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-24 06:16:42,489 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplicationTests using Java 11.0.10 on MSI with PID 15408 (started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:16:42,490 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:16:43,894 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-05-24 06:16:44,039 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-05-24 06:16:44,283 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3af2f846, org.springframework.security.web.context.SecurityContextPersistenceFilter@527a8665, org.springframework.security.web.header.HeaderWriterFilter@11df2829, org.springframework.security.web.csrf.CsrfFilter@339f3a55, org.springframework.security.web.authentication.logout.LogoutFilter@7558c24b, com.intuit.craftdemo.security.CustomFilter@6af65f29, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@21f7e537, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5ec6fede, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6f85ee02, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@370c9018, org.springframework.security.web.session.SessionManagementFilter@5d71b500, org.springframework.security.web.access.ExceptionTranslationFilter@5b733ef7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1b37fbec]
+2022-05-24 06:16:45,025 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplicationTests in 2.92 seconds (JVM running for 3.79)
+2022-05-24 06:16:45,428 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-05-24 06:16:45,432 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-05-24 06:16:56,248 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 12888 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:16:56,252 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:16:57,858 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:16:57,867 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:16:57,867 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:16:57,867 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:16:57,951 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:16:57,951 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1603 ms
+2022-05-24 06:16:58,059 WARN org.springframework.context.support.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'craftDemoSecurity': Unsatisfied dependency expressed through field 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-24 06:16:58,062 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2022-05-24 06:16:58,075 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-24 06:16:58,091 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-24 06:17:25,339 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 9472 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:17:25,343 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:17:27,024 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:17:27,036 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:17:27,037 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:17:27,037 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:17:27,138 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:17:27,139 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1717 ms
+2022-05-24 06:17:27,445 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@115ca7de, org.springframework.security.web.context.SecurityContextPersistenceFilter@16132f21, org.springframework.security.web.header.HeaderWriterFilter@2792b416, org.springframework.security.web.csrf.CsrfFilter@34208baa, org.springframework.security.web.authentication.logout.LogoutFilter@6f5e16cf, com.intuit.craftdemo.security.CustomFilter@29fe4840, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@19bedeb8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4640195a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4207852d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7f287b98, org.springframework.security.web.session.SessionManagementFilter@7793ad58, org.springframework.security.web.access.ExceptionTranslationFilter@2753316c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@ca8ef3a]
+2022-05-24 06:17:27,717 WARN org.springframework.context.support.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2022-05-24 06:17:27,720 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2022-05-24 06:17:27,735 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-24 06:17:27,754 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2022-05-24 06:18:03,317 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplicationTests using Java 11.0.10 on MSI with PID 19396 (started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:18:03,318 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:18:04,793 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2b916808, org.springframework.security.web.context.SecurityContextPersistenceFilter@b61edb9, org.springframework.security.web.header.HeaderWriterFilter@13e5d243, org.springframework.security.web.csrf.CsrfFilter@6cd15072, org.springframework.security.web.authentication.logout.LogoutFilter@7f9e8421, com.intuit.craftdemo.security.CustomFilter@62f11ebb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4ed9f7b1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@467233e4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4fb04a72, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@a6c54c3, org.springframework.security.web.session.SessionManagementFilter@2e463f4, org.springframework.security.web.access.ExceptionTranslationFilter@74606204, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4337afd]
+2022-05-24 06:18:05,316 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplicationTests in 2.387 seconds (JVM running for 3.234)
+2022-05-24 06:18:10,531 INFO org.springframework.boot.StartupInfoLogger [main] Starting CraftDemoApplication using Java 11.0.10 on MSI with PID 18768 (C:\Users\deepa\Desktop\Craft demo\craft-demo\target\classes started by deepa in C:\Users\deepa\Desktop\Craft demo\craft-demo)
+2022-05-24 06:18:10,534 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 06:18:11,980 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9200 (http)
+2022-05-24 06:18:11,990 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:18:11,990 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-05-24 06:18:11,991 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-24 06:18:12,083 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 06:18:12,084 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1458 ms
+2022-05-24 06:18:12,334 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@66a5755, org.springframework.security.web.context.SecurityContextPersistenceFilter@67536ae0, org.springframework.security.web.header.HeaderWriterFilter@2be21396, org.springframework.security.web.csrf.CsrfFilter@54e12f4c, org.springframework.security.web.authentication.logout.LogoutFilter@28a9494b, com.intuit.craftdemo.security.CustomFilter@771a7d53, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1faf386c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@d16be4f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@250a9031, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6d6d480c, org.springframework.security.web.session.SessionManagementFilter@45658133, org.springframework.security.web.access.ExceptionTranslationFilter@1bf14704, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4b0bd001]
+2022-05-24 06:18:12,570 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9200"]
+2022-05-24 06:18:12,587 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9200 (http) with context path ''
+2022-05-24 06:18:12,595 INFO org.springframework.boot.StartupInfoLogger [main] Started CraftDemoApplication in 2.599 seconds (JVM running for 3.033)
+2022-05-24 14:24:39,858 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9200-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 14:24:39,860 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-24 14:24:39,861 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9200-exec-1] Completed initialization in 1 ms
