@@ -1,0 +1,18 @@
+<ng-container>
+  <div class="pageNotFound__container">
+    <div class="pageNotFound__container--first">
+      <h1 class="pageNotFound__container--header-first">
+        {{ pageNotFound.header }}
+      </h1>
+    </div>
+    <div class="pageNotFound__container--second">
+      <h1 class="pageNotFound__container--header-second">
+        {{ pageNotFound.content }}
+      </h1>
+    </div>
+
+    <button mat-raised-button color="blue" type="button" (click)="backToHome()">
+      Back To Home
+    </button>
+  </div>
+</ng-container>

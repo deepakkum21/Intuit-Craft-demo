@@ -1,0 +1,40 @@
+<div class="custom_snackbar__container">
+  <!-- icon placeholder -->
+  <ng-container
+    *ngTemplateOutlet="
+      data?.type === 'warning'
+        ? warning
+        : data?.type === 'error'
+        ? error
+        : data?.type === 'success'
+        ? success
+        : info
+    "
+  ></ng-container>
+
+  <!-- message for the alert -->
+  <div class="custom_snackbar__container-message">{{ data?.message }}</div>
+
+  <!-- Action button for closing the snackar -->
+  <div class="custom_snackbar__container-action">
+    <button mat-raised-button color="primary" (click)="snackBarRef.dismiss()">
+      {{ data?.action }}
+    </button>
+  </div>
+</div>
+
+<ng-template #info>
+  <mat-icon class="info-icon-container">info</mat-icon>
+</ng-template>
+
+<ng-template #error>
+  <mat-icon class="error-icon-container">error</mat-icon>
+</ng-template>
+
+<ng-template #success>
+  <mat-icon class="success-icon-container">check_circle</mat-icon>
+</ng-template>
+
+<ng-template #warning>
+  <mat-icon class="warning-icon-container">warning</mat-icon>
+</ng-template>

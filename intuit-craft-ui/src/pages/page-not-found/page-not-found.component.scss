@@ -1,0 +1,35 @@
+@import "./../../assets/css/variables.scss" ;
+
+$cls: ".pageNotFound";
+
+#{$cls} {
+    &__container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+
+        &--header-first {
+            font-weight: 1000;
+            font-size: xxx-large;
+        }
+
+        &--header-second {
+            font-weight: bold;
+            font-size: x-large;
+        }
+    }
+
+
+}
+
+.mat-raised-button.mat-blue {
+    background-color: $default-button;
+    color: white;
+}
+
+.mat-raised-button.mat-blue:hover {
+    color: $default-button;
+    background-color: white;
+}

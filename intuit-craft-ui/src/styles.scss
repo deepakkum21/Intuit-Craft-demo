@@ -1,0 +1,46 @@
+/* You can add global styles to this file, and also import other style files */
+@import "./assets/css/variables.scss";
+
+
+html, body { height: 100%; background-color: gainsboro;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.required {
+    color: $error;
+}
+
+.error-icon-container {
+    color: $error;
+}
+
+.info-icon-container {
+    color: $info
+}
+
+.success-icon-container {
+    color: $success;
+}
+
+.warning-icon-container {
+    color: $warning;
+}
+
+.error-snackbar {
+    border: 1px solid $danger;
+    background-color: $danger-light;
+}
+
+.info-snackbar {
+    border: 1px solid $info;
+    background-color: $info-light;
+}
+
+.success-snackbar {
+    border: 1px solid $success;
+    background-color: $success-light;
+}
+
+.warning-snackbar {
+    border: 1px solid $warning;
+    background-color: $warning-light;
+}

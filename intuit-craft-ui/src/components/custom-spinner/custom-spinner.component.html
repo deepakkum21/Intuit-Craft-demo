@@ -1,0 +1,25 @@
+<ng-container *ngIf="overlay; else progressSpinner">
+  <!-- spinner with overlay -->
+  <div class="spinner__overlay">
+    <div class="spinner__center">
+      <ng-template [ngTemplateOutlet]="progressSpinner"></ng-template>
+    </div>
+  </div>
+</ng-container>
+
+<!-- spinner without overlay -->
+<ng-template #progressSpinner>
+  <div class="spinner__center">
+    <mat-progress-spinner
+      [diameter]="diameter"
+      [mode]="mode"
+      [color]="color"
+      [strokeWidth]="strokeWidth"
+      [value]="value"
+    >
+    </mat-progress-spinner>
+
+    <!-- if need to show uploading percentage -->
+    <h2 *ngIf="progressPercentage" id="progressPercentage">{{ value }}%</h2>
+  </div>
+</ng-template>

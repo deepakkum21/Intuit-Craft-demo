@@ -1,0 +1,42 @@
+@import "./../../assets/css/variables.scss";
+
+$cls: ".custom_snackbar";
+
+#{$cls} {
+    &__container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+        &-message {
+            padding-left: 10px;
+            color: black;
+            font-size: initial;
+            font-weight: bold;
+        }
+
+        &-action {
+            padding-left: 20px;
+
+            button {
+                background-color: $default-button;
+                color: white;
+            }
+
+            button:hover {
+                color: $default-button;
+                background-color: white;
+            }
+        }
+    }
+}
+
+.mat-icon {
+    height: 34px;
+    width: 34px;
+}
+
+.material-icons {
+    font-size: 34px !important;
+}

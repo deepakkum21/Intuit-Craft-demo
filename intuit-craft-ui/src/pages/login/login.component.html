@@ -1,0 +1,42 @@
+<div class="login__container">
+  <div class="login__container-card">
+    <div class="login__container-card--logo_container">
+      <img
+        class="login__container-card--logo_container_logo"
+        src="../../assets/images/Intuit-Logo.wine.png"
+      />
+    </div>
+
+    <div class="login__container-card--header">
+      <h3>{{ LOGIN_FIELDS_LABEL.LOGIN_FORM_LABEL }}</h3>
+    </div>
+
+    <form (ngSubmit)="login()" [formGroup]="loginFormGroup">
+      <div class="login__container-card--input">
+        <mat-form-field appearance="outline">
+          <mat-label
+            >{{ LOGIN_FIELDS_LABEL.USERNAME_LABEL }}
+            <span class="required">*</span></mat-label
+          >
+          <input matInput formControlName="userName" />
+          <mat-error *ngIf="isInputFieldsEmpty('userName')">
+            {{ LOGIN_MSG.USERNAME_MISSING_MSG }}
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="login__container-card--button_container">
+        <button mat-raised-button color="red" type="button" (click)="fail()">
+          {{ LOGIN_FIELDS_LABEL.FAIL_BTN_LABEL }}
+        </button>
+        <button mat-raised-button color="blue" type="submit">
+          {{ LOGIN_FIELDS_LABEL.SUCCESS_BTN_LABEL }}
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<ng-container *ngIf="isLoading">
+  <intuit-craft-custom-spinner [overlay]="true"></intuit-craft-custom-spinner>
+</ng-container>
